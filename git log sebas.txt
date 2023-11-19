@@ -1,0 +1,23 @@
+[33mcommit ba5f9121fb87763bd6442382d60361fb486b720c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SEVAS <sevasxxx313lol@gmail.com>
+Date:   Thu Nov 16 22:23:31 2023 -0500
+
+    cargo de la persona
+
+[33mcommit 56346a82ad5927b0f584fed2eb9b1af58226691c[m
+Author: SEVAS <sevasxxx313lol@gmail.com>
+Date:   Thu Nov 16 22:17:12 2023 -0500
+
+    trabajo
+
+[33mcommit 62c2f083f9c23a147d1e79a011411b6d1a8f11b2[m
+Author: SEVAS <sevasxxx313lol@gmail.com>
+Date:   Thu Nov 16 22:06:38 2023 -0500
+
+    cambios edad
+
+[33mcommit c724df7a23555f2da5c4003c3bacc3437518fe5a[m
+Author: SEVAS <sevasxxx313lol@gmail.com>
+Date:   Thu Nov 16 22:01:46 2023 -0500
+
+    este es el primer commet de este arcivo
